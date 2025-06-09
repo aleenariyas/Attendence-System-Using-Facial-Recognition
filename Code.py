@@ -3,6 +3,7 @@
 
 #Importing necessary libraries (Packages) and modules:
 import tkinter as tk as tk
+
 from tkinter import * #for GUI
 from screeninfo import get_monitors #for retrieving monitor information
 import cv2,os #cv2 for computer vision tasks (OpenCV)
