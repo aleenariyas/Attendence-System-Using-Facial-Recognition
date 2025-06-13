@@ -375,5 +375,3 @@ window.resizable(False, False)
 window.mainloop()
 
 #END OF CODE
-
-##############
