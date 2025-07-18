@@ -1,18 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #FacePool-An attendance system which uses facial recognition
 #FacePool uses the OpenCV library for face detection, Tkinter for the graphical user interface, and pandas for data manipulation.
 #Importing necessary libraries (Packages) and modules: 
