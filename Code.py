@@ -1,16 +1,3 @@
-  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 FacePool-An attendance system which uses facial recognition
